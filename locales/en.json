@@ -1,0 +1,13 @@
+{
+    "autopkg_api": "AutoPKG API",
+    "no_data": "No data, check the ReadMe for module documentation",
+    "modules_env": "MODULES Array in .env",
+    "script_hash": "Script Hash",
+    "mr_version": "MunkiReport Version",
+    "last_rebuilt": "Client PKG Last Built by AutoPKG",
+    "last_polled": "AutoPKG Last Checked for New Client PKG",
+    "rebuild_pkg": "Client PKG Built on Last AutoPKG Run",
+    "version": "Client PKG Version",
+    "rebuild_reason": "Pending Rebuild Reason",
+    "manual_rebuild": "Force Client PKG Rebuild"
+}

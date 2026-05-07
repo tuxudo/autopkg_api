@@ -1,0 +1,4 @@
+admin_pages:
+    admin:
+        view: autopkg_api_admin
+        i18n: autopkg_api.autopkg_api
